@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Tamara-Mitrovska.github.io/sitemap.xml
+Sitemap: https://Tamara-Mitrovska.github.io//sitemap.xml
