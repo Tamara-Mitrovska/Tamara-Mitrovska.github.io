@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Hi, I'm Tamara. I'm currently working as a software engineer at Mi|iM. I did my Bachelors and Masters
+Hi, I'm Tamara. I'm currently working as a software engineer at Mi|iM. I did my Bachelors and Masters 
 in Computer Science at MIT.
 
 <!-- I'm interested in problems in the interesction of programming languages and machine learning. -->
