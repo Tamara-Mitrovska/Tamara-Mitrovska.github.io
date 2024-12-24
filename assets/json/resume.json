@@ -3,15 +3,6 @@
     "name": "Tamara Mitrovska",
     "email": "mitrovska05@gmail.com"
   },
-  "work": [
-    {
-      "name": "mi|im",
-      "position": "Software Engineer",
-      "startDate": "07-2023",
-      "summary": "Built two new web applications in AngularJS following Material Design principles, which are used on a daily basis.",
-      "highlights": ["Front End"]
-    }
-  ],
   "education": [
     {
       "institution": "Massachusetts Institute of Technology",
@@ -20,8 +11,7 @@
       "studyType": "Bachelor's",
       "startDate": "09-2018",
       "endDate": "06-2022",
-      "score": "5",
-      "courses": ["Performance Engineering"]
+      "courses": []
     },
     {
       "institution": "Massachusetts Institute of Technology",
@@ -30,19 +20,61 @@
       "studyType": "Master's",
       "startDate": "09-2022",
       "endDate": "06-2023",
-      "score": "5",
-      "courses": ["Distributed Systems"]
+      "courses": []
     }
   ],
-  "publications": [
+  "work": [
     {
-      "name": "Generating Adversarial Computer Programs using Optimized Obfuscations",
-      "authors": "Shashank Srikant, Sijia Liu, Tamara Mitrovska, Shiyu Chang, Quanfu Fan, Gaoyuan Zhang, Una-May O'Reilly",
-      "publisher": "ICLR",
-      "releaseDate": "2021",
-      "url": "https://arxiv.org/abs/2103.11882",
-      "summary": ""
+      "name": "mi|im",
+      "position": "Software Engineer",
+      "location": "Cambridge, MA",
+      "startDate": "07-2023",
+      "summary": "Developed and deployed two Angular web applications, now used daily by around 20 internal users. Designed and implemented a comprehensive test suite with Jasmine and Cypress for unit and end-to-end testing, integrated with CircleCI to streamline the CI/CD pipeline, improving deployment speed and reliability. Developed RESTful API endpoints using Java and PostgreSQL, enabling seamless communication between back-end services and front-end applications. Automated infrastructure provisioning and deployment using Terraform, leveraging AWS S3 and CloudFront for static website hosting. Enhanced data processing efficiency by implementing a trajectory similarity algorithm in Python. Contributed to system reliability through on-call support, diagnosing and resolving errors and performance issues to maintain optimal system health.",
+      "highlights": ["Angular", "Typescript", "Java", "APIs", "Cypress", "AWS"]
     }
+  ],
+  "internships": [
+    {
+      "name": "Akamai",
+      "position": "Software Enginnering Intern",
+      "location": "Cambridge, MA",
+      "startDate": "06-2023",
+      "endDate": "08-2023",
+      "summary": "Optimized server allocation across geographic regions by implementing a bin packing heuristic to improve resource utilization. Built a data pipeline for comparing and analyzing real-time and forecasted traffic data using Python, SQL, and Bash, enabling data-driven decision-making. Developed knee detection algorithms to estimate cache space requirements for specific content classes, leveraging cache hit graphs to optimize resource allocation.",
+      "highlights": ["Python", "bash", "Grafana"]
+    },
+    {
+      "name": "ngram health",
+      "position": "Software Enginnering Intern",
+      "location": "remote",
+      "startDate": "02-2021",
+      "endDate": "08-2021",
+      "summary": "Created augmented reality (AR) scenes using A-Frame, designed as digital pet therapy to enhance the well-being of elderly individuals. Designed and optimized 3D assets in Blender for use in AR environments, ensuring high-quality and engaging user experiences.",
+      "highlights": ["A-Frame", "Blender", "Typescript"]
+    },
+    {
+      "name": "InstaDeep",
+      "position": "Software Enginnering Intern",
+      "location": "remote",
+      "startDate": "05-2020",
+      "endDate": "08-2020",
+      "summary": "Conducted a literature review on the 3D bin packing problem, summarizing recent advancements and key methodologies. Implemented optimization heuristics in Python to enhance volume utilization in existing 3D bin packing algorithms.",
+      "highlights": ["Python"]
+    }
+  ],
+  "research": [
+    {
+      "name": "COMMIT Group (MIT CSAIL)",
+      "position": "Graduate Researcher",
+      "location": "Cambridge, MA",
+      "startDate": "09-2022",
+      "endDate": "05-2023",
+      "summary": "Researched regular expression matching algorithms and optimization techniques used by engines like RE2 and Hyperscan, identifying key improvements for performance. Developed a high-performance regular expression library in C++ using multi-stage programming with BuildIt, optimizing matching speed and efficiency.",
+      "highlights": ["C++", "BuildIt", "regex"]
+    }
+  ],
+  "teaching": [
+
   ],
   "skills": [
     {
