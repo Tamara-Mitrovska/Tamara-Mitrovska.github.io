@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Hi, I'm Tamara, a software engineer at Mi|iM, a computer vision company based in Cambridge, MA. Over the past year and a half, I've developed a strong passion for frontend development, with a focus on Angular, and I'm currently expanding my skillset by learning React too.
+Hi, I'm Tamara, a software engineer at MiiM, a computer vision company based in Cambridge, MA. Over the past year and a half, I've developed a strong passion for frontend development, with a focus on Angular, and I'm currently expanding my skillset by learning React too.
 
 I hold both a Bachelor's and a Master's degree in Computer Engineering from MIT. During my time there I did research at the intersection of programming languages and machine learning which I also find very enjoyable.
 
