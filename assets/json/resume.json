@@ -28,7 +28,7 @@
       "name": "mi|im",
       "position": "Software Engineer",
       "location": "Cambridge, MA",
-      "startDate": "07-2023",
+      "startDate": "2023-07",
       "highlights": [
         "Developed and deployed two Angular web applications, now used daily by around 20 internal users.",
         "Designed and implemented a comprehensive test suite with Jasmine and Cypress for unit and end-to-end testing, integrated with CircleCI to streamline the CI/CD pipeline, improving deployment speed and reliability.",
@@ -42,8 +42,8 @@
       "name": "Akamai",
       "position": "Software Enginnering Intern",
       "location": "Cambridge, MA",
-      "startDate": "06-2023",
-      "endDate": "08-2023",
+      "startDate": "2022-06",
+      "endDate": "2022-08",
       "highlights": [
         "Optimized server allocation across geographic regions by implementing a bin packing heuristic to improve resource utilization.",
         "Built a data pipeline for comparing and analyzing real-time and forecasted traffic data using Python, SQL, and Bash, enabling data-driven decision-making.",
@@ -54,8 +54,8 @@
       "name": "ngram health",
       "position": "Software Enginnering Intern",
       "location": "remote",
-      "startDate": "02-2021",
-      "endDate": "08-2021",
+      "startDate": "2021-02",
+      "endDate": "2021-08",
       "highlights": [
         "Created augmented reality (AR) scenes using A-Frame, designed as digital pet therapy to enhance the well-being of elderly individuals.",
         "Designed and optimized 3D assets in Blender for use in AR environments, ensuring high-quality and engaging user experiences."
@@ -65,8 +65,8 @@
       "name": "InstaDeep",
       "position": "Software Enginnering Intern",
       "location": "remote",
-      "startDate": "05-2020",
-      "endDate": "08-2020",
+      "startDate": "2020-05",
+      "endDate": "2020-08",
       "highlights": [
         "Conducted a literature review on the 3D bin packing problem, summarizing recent advancements and key methodologies.",
         "Implemented optimization heuristics in Python to enhance volume utilization in existing 3D bin packing algorithms."
@@ -76,8 +76,8 @@
       "name": "COMMIT Group (MIT CSAIL)",
       "position": "Graduate Researcher",
       "location": "Cambridge, MA",
-      "startDate": "09-2022",
-      "endDate": "05-2023",
+      "startDate": "2022-09",
+      "endDate": "2023-05",
       "highlights": [
         "Researched regular expression matching algorithms and optimization techniques used by engines like RE2 and Hyperscan, identifying key improvements for performance.",
         "Developed a high-performance regular expression library in C++ using multi-stage programming with BuildIt, optimizing matching speed and efficiency."
@@ -87,8 +87,8 @@
       "name": "CAP Group (MIT CSAIL)",
       "position": "Undergraduate Researcher",
       "location": "Cambridge, MA",
-      "startDate": "02-2022",
-      "endDate": "05-2022",
+      "startDate": "2022-02",
+      "endDate": "2022-05",
       "highlights": [
         "Automated method signature and docstring generation in Python from natural language app descriptions using GPT-3, streamlining development documentation.",
         "Developed a new web application feature in ReactJS to showcase and demonstrate the automated method signature generation process."
@@ -98,19 +98,8 @@
       "name": "COMMIT Group (MIT CSAIL)",
       "position": "Undergraduate Researcher",
       "location": "Cambridge, MA",
-      "startDate": "02-2022",
-      "endDate": "05-2022",
-      "highlights": [
-        "Developed a high-performance convolution library in C++ using multi-stage programming with BuildIt, optimizing for computational efficiency.",
-        "Designed and implemented custom code generation for arbitrary dimensions, incorporating advanced scheduling techniques such as parallelization, vectorization, loop tiling, and unrolling for performance optimization."
-      ]
-    },
-    {
-      "name": "COMMIT Group (MIT CSAIL)",
-      "position": "Undergraduate Researcher",
-      "location": "Cambridge, MA",
-      "startDate": "02-2022",
-      "endDate": "05-2022",
+      "startDate": "2022-02",
+      "endDate": "2022-05",
       "highlights": [
         "Developed a high-performance convolution library in C++ using multi-stage programming with BuildIt, optimizing for computational efficiency.",
         "Designed and implemented custom code generation for arbitrary dimensions, incorporating advanced scheduling techniques such as parallelization, vectorization, loop tiling, and unrolling for performance optimization."
@@ -120,8 +109,8 @@
       "name": "ALFA Group (MIT CSAIL)",
       "position": "Undergraduate Researcher",
       "location": "Cambridge, MA",
-      "startDate": "02-2020",
-      "endDate": "12-2021",
+      "startDate": "2020-02",
+      "endDate": "2021-12",
       "highlights": [
         "Implemented adversarial attacks on code-related machine learning models by performing optimally selected Abstract Syntax Tree (AST) transformations.",
         "Developed a robust evaluation pipeline using PyTorch to test model performance under adversarial conditions, enhancing the resilience of state-of-the-art models.",
@@ -133,50 +122,14 @@
       "name": "International Institute of Information Technology (IIIT)",
       "position": "Information Retrieval and Extraction Lab Intern",
       "location": "Hyderabad, India",
-      "startDate": "06-2019",
-      "endDate": "08-2019",
+      "startDate": "2019-06",
+      "endDate": "2019-08",
       "highlights": [
         "Developed a binary classifier using traditional machine learning models to differentiate body shaming posts from other content on Instagram, leveraging scraped data based on hashtags.",
         "Scraped Instagram posts using Python to create a labeled dataset, ensuring accurate content for model training and evaluation.",
         "Built a user-friendly interface with Python and Flask to showcase the classifier's functionality, allowing interactive testing and demonstration.",
         "The project's outcomes were published at Soc Info 2022 (International Conference on Social Informatics), contributing to the field of content moderation and social media analytics."
       ]
-    }
-  ],
-  "skills": [
-    {
-      "name": "Front End Development",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Angular",
-        "React"
-      ]
-    },
-    {
-      "name": "Programming Languages",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Python",
-        "Typescript",
-        "Java"
-      ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "Macedonian",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    },
-    {
-      "language": "Spanish",
-      "fluency": "Intermediate",
-      "icon": ""
     }
   ]
 }
